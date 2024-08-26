@@ -21,11 +21,12 @@ I am currently a PhD student at CUHK Text-Mining Group, supervised by Prof. [Lam
 
 My research interests lie in the area of natural language processing, especially in efficient alignment of large language models. 
 
-
+<span class='anchor' id="-news"></span>
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2023.
 
+<span class='anchor' id="-publications"></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/TAG.png' alt="sym" width="100%"></div></div>
@@ -53,12 +54,14 @@ My research interests lie in the area of natural language processing, especially
 </div>
 </div>
 
+<span class='anchor' id="-honors-and-awards"></span>
 # 🎖 Honors and Awards
 - 2019 SHEIN Cup Jiangsu College Students Programming Competition   **Third Prize** 
 - 2019 China College Students Programming Competition for Girls **Second Prize** 
 - 2019 China College Students Programming Competition - Qinhuangdao Station **Third Prize** 
 - 2019 China College Students Mathematical Modeling Competition **Second prize**
 
+<span class='anchor' id="-educations"></span>
 # 📖 Educations
 - *2024.08 - now*, PhD, The Chinese University of Hong Kong, Hong Kong.
 - *2021.09 - 2024.06*, Master, Department of Computer Science and Technology, Nanjing University, Nanjing. 
@@ -68,6 +71,7 @@ My research interests lie in the area of natural language processing, especially
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+<span class='anchor' id="-internships"></span>
 # 💻 Internships
 - *2023.06 - 2023.10*, IDEA, China.
 - *2022.05 - 2023.02*, AI-Lab, ByteDance, China.
